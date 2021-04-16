@@ -1,0 +1,17 @@
+<svg viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="el_DttXTgxDPwm">
+    <style>
+        @-webkit-keyframes el_c3n8-4winuw_Animation{50%{opacity: 1;}75%{opacity: 0.3;}100%{opacity: 1;}0%{opacity: 1;}}@keyframes el_c3n8-4winuw_Animation{50%{opacity: 1;}75%{opacity: 0.3;}100%{opacity: 1;}0%{opacity: 1;}}@-webkit-keyframes el_k-XrnU9m-jB_Animation{25%{opacity: 1;}50%{opacity: 0.3;}75%{opacity: 1;}0%{opacity: 1;}100%{opacity: 1;}}@keyframes el_k-XrnU9m-jB_Animation{25%{opacity: 1;}50%{opacity: 0.3;}75%{opacity: 1;}0%{opacity: 1;}100%{opacity: 1;}}@-webkit-keyframes el_3ChrFp8Efar_Animation{0%{opacity: 1;}25%{opacity: 0.3;}50%{opacity: 1;}100%{opacity: 1;}}@keyframes el_3ChrFp8Efar_Animation{0%{opacity: 1;}25%{opacity: 0.3;}50%{opacity: 1;}100%{opacity: 1;}}@-webkit-keyframes el_JD9bPe92Qle_Animation{0%{opacity: 0.3;}25%{opacity: 1;}75%{opacity: 1;}100%{opacity: 0.3;}}@keyframes el_JD9bPe92Qle_Animation{0%{opacity: 0.3;}25%{opacity: 1;}75%{opacity: 1;}100%{opacity: 0.3;}}#el_DttXTgxDPwm *{-webkit-animation-duration: 1.2s;animation-duration:
+        1.2s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_VLtTzDvculp{stroke: none;stroke-width: 1;fill: none;}#el_19zNp8S1ydt{-webkit-transform: translate(-740px, -457px);transform: translate(-740px, -457px);fill: #869CA1;}#el__jmjTr2Ncfr{-webkit-transform: translate(740px, 457px);transform: translate(740px, 457px);}#el_JD9bPe92Qle{-webkit-animation-name: el_JD9bPe92Qle_Animation;animation-name: el_JD9bPe92Qle_Animation;opacity: 0.3;}#el_3ChrFp8Efar{-webkit-animation-name: el_3ChrFp8Efar_Animation;animation-name: el_3ChrFp8Efar_Animation;opacity: 1;}#el_k-XrnU9m-jB{-webkit-animation-name: el_k-XrnU9m-jB_Animation;animation-name: el_k-XrnU9m-jB_Animation;opacity: 1;}#el_c3n8-4winuw{-webkit-animation-name: el_c3n8-4winuw_Animation;animation-name: el_c3n8-4winuw_Animation;opacity: 1;}
+    </style>
+    <defs/>
+    <g id="el_VLtTzDvculp" fill-rule="evenodd">
+        <g id="el_19zNp8S1ydt" fill-rule="nonzero">
+            <g id="el__jmjTr2Ncfr">
+                <rect id="el_JD9bPe92Qle" x="0" y="0" width="30" height="30"/>
+                <rect id="el_3ChrFp8Efar" x="40" y="0" width="30" height="30"/>
+                <rect id="el_k-XrnU9m-jB" x="40" y="40" width="30" height="30"/>
+                <rect id="el_c3n8-4winuw" x="0" y="40" width="30" height="30"/>
+            </g>
+        </g>
+    </g>
+</svg>
